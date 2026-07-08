@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/santysharmaa/Leetcode_solutions/tree/master/0069-sqrtx) |
+## Array
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/santysharmaa/Leetcode_solutions/tree/master/0118-pascals-triangle) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/santysharmaa/Leetcode_solutions/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
