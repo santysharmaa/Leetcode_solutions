@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/santysharmaa/Leetcode_solutions/tree/master/0118-pascals-triangle) |
+| [0283-move-zeroes](https://github.com/santysharmaa/Leetcode_solutions/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/santysharmaa/Leetcode_solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/santysharmaa/Leetcode_solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/santysharmaa/Leetcode_solutions/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
