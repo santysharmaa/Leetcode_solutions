@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/santysharmaa/Leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/santysharmaa/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/santysharmaa/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/santysharmaa/Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/santysharmaa/Leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/santysharmaa/Leetcode_solutions/tree/master/1260-shift-2d-grid) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/santysharmaa/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/santysharmaa/Leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Matrix
 |  |
@@ -64,4 +66,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/santysharmaa/Leetcode_solutions/tree/master/1260-shift-2d-grid) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/santysharmaa/Leetcode_solutions/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/santysharmaa/Leetcode_solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/santysharmaa/Leetcode_solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
